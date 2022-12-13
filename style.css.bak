@@ -1,0 +1,45 @@
+div1 {
+ margin: 0;
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+   "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif";
+overflow-x:"auto";
+ height: 15%;
+ width: 20%;
+ display: flex;
+ justify-content: center;
+ 
+}
+
+
+.header {
+  background-color: #9933cc;
+  color: #ffffff;
+}
+
+
+table {
+ border-collapse: collapse;
+ text-align: left;
+ background-color: rgb(255, 255, 255);
+}
+
+caption {
+ padding-bottom: 5px;
+}
+
+thead,
+tfoot {
+ background-color: #cce;
+ font-size: 18px;
+}
+
+td,
+th {
+ padding: 5px;
+ border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.darker {
+ background-color: rgb(230 232 232);
+}
+

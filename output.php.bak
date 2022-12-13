@@ -1,12 +1,11 @@
  <html>
  <head>
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>EMV - Calculator</title>
- <link rel="stylesheet" href="style.css">
+ <title>19MIS0136 - T. Santhosh</title>
+ <link rel="stylesheet" href="t.css">
  </head>
 <body class="body" bgcolor="linen">
 
-<div class="header"  align="center" style="background-color:lightsalmon" >
+<div class="headdiv" align="center" style="background-color:lightsalmon" >
 <center><hr><h2>Expected Monetary Value</h2><hr></center>
 </div>
 
